@@ -27,4 +27,4 @@ os
 Layers used: 2 Convolution layer and a single gidden layer. (L2-Regularization used)
 The output layer has softmax activation with 3 neuron.
 
-The NN model has a good acuracy of about 88 % on test dataset without any problem of overfitting or underfitting.
+The NN model has a good acuracy of about 86 % on test dataset without any problem of overfitting or underfitting.

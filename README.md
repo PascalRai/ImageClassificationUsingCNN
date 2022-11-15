@@ -24,7 +24,7 @@ os
 
 ## Model:
 
-**For 3 label problem:**
+**For 3 label problem: (cpu computation)**
 
 Layers used: 2 Convolution layer and a single dense layer. (L2-Regularization used)
 The output layer has softmax activation with 3 neuron.

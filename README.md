@@ -24,7 +24,7 @@ os
 
 ## Model:
 
-**For 3 label problem: (cpu computation)**
+**For 3 class problem: (cpu computation)**
 
 Layers used: 2 Convolution layer and a single dense layer. (L2-Regularization used)
 
@@ -32,7 +32,7 @@ The output layer has softmax activation with 3 neuron.
 
 The NN model has an accuracy of about 95 % on test dataset without any problem of overfitting or underfitting.
 
-**For 6 label problem: (gpu computation)**
+**For 6 class problem: (gpu computation)**
 
 Layers used: 10 Convolution layer and 2 dense layer. 
 

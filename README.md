@@ -7,9 +7,9 @@ WWe need to model a NN that can classify whether a given image is Building, Fore
 ## Dataset:
 
 We are using dataset imorted from Kaggle titled (Intel Image Classification - 6 class dataset).
-<br>One model contains 3 labels dataset for reducing the compute duration.
+<br>One model contains 3 class dataset for reducing the compute duration.
 
-<br>The other model uses all 6 lables and uses a gpu for modeling.
+<br>The other model uses all 6 class and uses a gpu for modeling.
 
 ## Libraries used:
 
